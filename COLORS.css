@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    border: 2px solid black ;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.container p{
+    font-size: 1.5em;
+    color: #000;
+}
+.container h1{
+    font-size: 2em;
+    color: rgb(110, 48, 48);
+    text-align: center;
+    margin: 10px 0;   
+}
