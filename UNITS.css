@@ -16,3 +16,15 @@
     width: 100vw;
 
 }
+.super{
+    display: flex;
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 20px;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: lightblue;
+    font-size: 2em;
+}
